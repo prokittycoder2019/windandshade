@@ -7,7 +7,7 @@ loginButton.addEventListener("click",(e)=>{
 	const passw=logForm.pass.value;
 	if(username=="AdMiN0620" && passw=="KaZtLvCFaexY"){
 		document.cookie="browser_granted=1";
-		window.location.replace("file:///C:/WaS/admin%20page.html");
+		window.location.replace("admin%20page.html");
 		
 		}
 	else{ 
